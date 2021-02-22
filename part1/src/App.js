@@ -8,7 +8,7 @@ const Descripcion = () =>{
 const App = () =>{
   return (
     <div className="App">
-      <Mensaje message= "Bootcamp JavaScript"/>
+      <Mensaje color ="red" message= "Bootcamp JavaScript"/>
       <Mensaje message= "Segunda sesión"/>
       <Descripcion />
     </div>
